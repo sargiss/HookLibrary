@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{889d5749-fe79-4d75-b74e-845e1824640e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ipc">
+      <UniqueIdentifier>{ae54e367-1233-4f1a-8b13-1466fc75294b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageFilter.h" />
+    <ClInclude Include="DataSender.h">
+      <Filter>Ipc</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSenderSocket.h">
+      <Filter>Ipc</Filter>
+    </ClInclude>
+    <ClInclude Include="Lazy.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="WinMutex.h">
+      <Filter>Ipc</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSenderPipes.h">
+      <Filter>Ipc</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSenderMsg.h">
+      <Filter>Ipc</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryMappedFile.h">
+      <Filter>Ipc</Filter>
+    </ClInclude>
+    <ClInclude Include="HookInfo.h">
+      <Filter>Ipc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MessageFilter.cpp" />
+    <ClCompile Include="DataSenderSocket.cpp">
+      <Filter>Ipc</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMutex.cpp">
+      <Filter>Ipc</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="paths.rc" />
+  </ItemGroup>
+</Project>

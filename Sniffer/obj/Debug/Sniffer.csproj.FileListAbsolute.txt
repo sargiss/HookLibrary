@@ -1,0 +1,8 @@
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\bin\Debug\Sniffer.exe.config
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\obj\Debug\Sniffer.exe
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\obj\Debug\Sniffer.pdb
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\bin\Debug\Sniffer.exe
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\bin\Debug\Sniffer.pdb
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\bin\Debug\HookProcessor.dll
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\bin\Debug\HookProcessor.pdb
+C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\Sniffer\obj\Debug\ResolveAssemblyReference.cache

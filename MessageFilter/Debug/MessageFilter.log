@@ -1,0 +1,24 @@
+﻿Build started 03.07.2013 0:51:50.
+     1>Project "C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\MessageFilter\MessageFilter.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MessageFilter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\MessageFilter.unsuccessfulbuild".
+         Touching "Debug\MessageFilter.lastbuildstate".
+     1>Done Building Project "C:\Users\sarkis\documents\visual studio 2010\Projects\Sniffer\MessageFilter\MessageFilter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.35

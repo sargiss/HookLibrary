@@ -1,0 +1,10 @@
+c:\users\sarkis\documents\visual studio 2010\Projects\Sniffer\HookProcessor\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sarkis\documents\visual studio 2010\Projects\Sniffer\HookProcessor\bin\Debug\HookProcessor.dll
+c:\users\sarkis\documents\visual studio 2010\Projects\Sniffer\HookProcessor\bin\Debug\HookProcessor.pdb
+c:\users\sarkis\documents\visual studio 2010\Projects\Sniffer\HookProcessor\obj\Debug\HookProcessor.dll
+c:\users\sarkis\documents\visual studio 2010\Projects\Sniffer\HookProcessor\obj\Debug\HookProcessor.pdb
+C:\Users\Agadzhanov.KL\Documents\Visual Studio 2010\Projects\Sniffer\HookProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Agadzhanov.KL\Documents\Visual Studio 2010\Projects\Sniffer\HookProcessor\obj\Debug\HookProcessor.dll
+C:\Users\Agadzhanov.KL\Documents\Visual Studio 2010\Projects\Sniffer\HookProcessor\obj\Debug\HookProcessor.pdb
+C:\Users\Agadzhanov.KL\Documents\Visual Studio 2010\Projects\Sniffer\HookProcessor\bin\Debug\HookProcessor.dll
+C:\Users\Agadzhanov.KL\Documents\Visual Studio 2010\Projects\Sniffer\HookProcessor\bin\Debug\HookProcessor.pdb
